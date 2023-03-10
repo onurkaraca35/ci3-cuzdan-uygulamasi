@@ -1,2 +1,7 @@
-# ci3-cuzdan-uygulamasi
- Codeigniter Cüzdan Uygulaması
+###################
+Codeigniter Cüzdan Uygulaması
+###################
+
+K.Adı: admin
+Şifre:123
+
