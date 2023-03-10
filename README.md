@@ -2,6 +2,6 @@
 Codeigniter Cüzdan Uygulaması
 ###################
 
-K.Adı: admin
+K.Adı: admin<br>
 Şifre:123
 
